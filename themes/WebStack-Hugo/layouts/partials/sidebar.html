@@ -121,13 +121,14 @@
                 <div class="border-top py-2 border-color">
                     <div class="flex-bottom">
                         <ul>
+                            {{ if $.Site.Params.upload }} 
                             <li id="menu-item-237"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237 sidebar-item">
                                 <a href="{{ $.Site.Params.upload }}" target="_blank">
                                     <i class="fas fa-file-upload icon-fw icon-lg mr-2"></i>
                                     <span>网站提交</span></a>
                             </li>
-
+                            {{ end }}
 			    <li id="menu-item-212"
                                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-212 sidebar-item">
                                  <a href="#friendlink" class="smooth">
@@ -135,13 +136,14 @@
                                      <span>友情链接</span>
                                  </a>
                             </li>
-
+                            {{ if $.Site.Params.about }} 
                             <li id="menu-item-213"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-213 sidebar-item">
                                 <a target="_blank" rel="noopener" href="{{ $.Site.Params.about }}">
                                     <i class="fa fa-info-circle icon-fw icon-lg mr-2"></i>
                                     <span>关于导航</span></a>
                             </li>
+                            {{ end }}
                         </ul>
                     </div>
                 </div>
