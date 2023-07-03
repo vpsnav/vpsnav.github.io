@@ -1,6 +1,6 @@
 ---
 - taxonomy: 活动推荐
-  icon: far fa-star
+  icon: far fa-calendar-alt
   list:
     - term: 最新活动
       links:
@@ -38,7 +38,7 @@
           description: 一杯奶茶的价格，可使用云服务器1个月，你值得拥有！
 
 - taxonomy: 国内VPS
-  icon: far fa-star
+  icon: far fa-hdd
   links:
     - title: 阿里云
       logo: 阿里云.jpg
@@ -54,7 +54,7 @@
       description: 提供云计算服务+智能，见未来-华为云。
 
 - taxonomy: 对象存储
-  icon: far fa-star
+  icon: far fa-hospital
   links:
     - title: 阿里云
       logo: 阿里云.jpg
@@ -71,7 +71,7 @@
 
 
 - taxonomy: SSL证书
-  icon: far fa-star
+  icon: far fa-share-square
   links:
     - title: 阿里云
       logo: 阿里云.jpg
@@ -83,7 +83,7 @@
       description: SSL证书特价6.7折
 
 - taxonomy: 短信服务
-  icon: far fa-star
+  icon: far fa-envelope
   links:
     - title: 阿里云
       logo: 阿里云.jpg
@@ -91,7 +91,7 @@
       description: 无需自行搭建消息服务，免运维。安全稳定，国内验证短信秒级触达，到达率99%；
 
 - taxonomy: CDN云产品
-  icon: far fa-star
+  icon: far fa-paper-plane
   links:
     - title: 阿里云
       logo: 阿里云.jpg
