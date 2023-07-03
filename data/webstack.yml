@@ -65,7 +65,7 @@
       url: https://curl.qcloud.com/JW82MGAd
       description: 腾讯云 COS 具有高扩展性、低成本、可靠和安全等特点，能为您提供专业的数据存储服务。
     - title: 华为云
-      logo: 华为云.jpg
+      logo: 华为云.png
       url: https://www.huaweicloud.com/product/obs.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905
       description: 为客户提供海量、安全、高可靠、低成本的数据存储能力，使用时无需考虑容量限制，并且提供多种存储类型供选择，满足客户各类业务场景诉求。
 
@@ -78,7 +78,7 @@
       url: https://www.aliyun.com/product/cas?userCode=rhbbq4qp
       description: 一站式购齐SSL证书价优且多样、全网SSL证书统一运维省力又省心，全流程无忧保障提供有温度的服务。
     - title: 华为云
-      logo: 华为云.jpg
+      logo: 华为云.png
       url: https://activity.huaweicloud.com/Hisec.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905
       description: SSL证书特价6.7折
 
@@ -98,6 +98,6 @@
       url: https://www.aliyun.com/product/cdn?userCode=rhbbq4qp
       description: 将源站内容分发至最接近用户的节点 提高用户访问的响应速度和成功率。
     - title: 华为云
-      logo: 华为云.jpg
+      logo: 华为云.png
       url: https://www.huaweicloud.com/product/cdn.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905&fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9
       description: 提高用户访问的响应速度和成功率。
