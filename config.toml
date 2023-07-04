@@ -12,7 +12,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
     author        = "vpsnav"
     description   = "VPS导航"
     upload        = false  # 左侧导航栏的"网站提交"
-    about         = false	# 左侧导航栏的"关于导航"页面(./about)
+    about         = './about'	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "VPS导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
