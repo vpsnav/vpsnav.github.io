@@ -52,6 +52,13 @@
       logo: 华为云.png
       url: https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905
       description: 提供云计算服务+智能，见未来-华为云。
+- taxonomy: 国外VPS
+  icon: far fa-hdd
+  links:
+    - title: DMIT
+      logo: dmit.jpg
+      url: https://www.dmit.io/aff.php?aff=7005
+      description: 我们在世界各地拥有功能强大、易于使用且价格实惠的云解决方案。互联网的使用从未如此简单。现在就出发吧！
 
 - taxonomy: 对象存储
   icon: far fa-hospital
