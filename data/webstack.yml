@@ -5,35 +5,35 @@
     - term: 最新活动
       links:
         - title: 阿里云
-          logo: 阿里云.jpg
+          logo: aliyun-vps.jpg
           url: https://www.aliyun.com/activity?userCode=rhbbq4qp
           description: 上新必买抢先知，劲爆优惠不错过！
         - title: 腾讯云
-          logo: 腾讯云.jpg
+          logo: tencent-vps.jpg
           url: https://curl.qcloud.com/xVK9z7ev
           description: 云服务器、云数据库、COS、CDN、短信等云产品特惠热卖中。
         - title: 华为云
-          logo: 华为云.png
+          logo: huawei-vps.png
           url: https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905&fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9
           description: 云上优选 特惠来袭。
     - term: 新人特惠
       links:
         - title: 阿里云
-          logo: 阿里云.jpg
+          logo: aliyun-vps.jpg
           url: https://www.aliyun.com/activity/new/index?userCode=rhbbq4qp
           description: 领取上云大礼包单笔最高立减1500元。
         - title: 腾讯云
-          logo: 腾讯云.jpg
+          logo: tencent-vps.jpg
           url: https://curl.qcloud.com/49YDcY5K
           description: 新客户无门槛领取总价值高达2860元代金券，每种代金券限量500张，先到先得。
         - title: 华为云
-          logo: 华为云.png
+          logo: huawei-vps.png
           url: https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905&fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9
           description: 优惠仅限一单！企业新用户可获得更多配额。
     - term: 学生福利
       links:
         - title: 阿里云
-          logo: 阿里云.jpg
+          logo: aliyun-vps.jpg
           url: https://www.aliyun.com/daily-act/ecs/activity_share?userCode=rhbbq4qp
           description: 一杯奶茶的价格，可使用云服务器1个月，你值得拥有！
 
@@ -41,17 +41,21 @@
   icon: far fa-hdd
   links:
     - title: 阿里云
-      logo: 阿里云.jpg
+      logo: aliyun-vps.jpg
       url: https://www.aliyun.com/product/ecs?userCode=rhbbq4qp
       description: 云服务器 精选特惠，老用户升级最低享6.5折，协助您选择最合适配置方案。
     - title: 腾讯云
-      logo: 腾讯云.jpg
+      logo: tencent-vps.jpg
       url: https://cloud.tencent.com/act/pro/cps_3?fromSource=gwzcw.6688284.6688284.6688284&utm_medium=cps&utm_id=gwzcw.6688284.6688284.6688284&cps_key=747f67f12cbc83371840877b5153c8e2
       description: 产业智变，云启未来。
     - title: 华为云
-      logo: 华为云.png
+      logo: huawei-vps.png
       url: https://activity.huaweicloud.com/discount_area_v5/index.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905
       description: 提供云计算服务+智能，见未来-华为云。
+    - title: 京东云
+      logo: jingdong-vps.png
+      url: https://3.cn/1-NzGwCG
+      description: 京东云主机，安全稳定，性能强劲，新客下单专享特惠。
 - taxonomy: 国外VPS
   icon: far fa-hdd
   links:
@@ -64,15 +68,15 @@
   icon: far fa-hospital
   links:
     - title: 阿里云
-      logo: 阿里云.jpg
+      logo: aliyun-vps.jpg
       url: https://www.aliyun.com/product/oss?userCode=rhbbq4qp
       description: 海量、安全、低成本、高可靠的云存储服务，提供99.99%的数据可靠性。
     - title: 腾讯云
-      logo: 腾讯云.jpg
+      logo: tencent-vps.jpg
       url: https://curl.qcloud.com/JW82MGAd
       description: 腾讯云 COS 具有高扩展性、低成本、可靠和安全等特点，能为您提供专业的数据存储服务。
     - title: 华为云
-      logo: 华为云.png
+      logo: huawei-vps.png
       url: https://www.huaweicloud.com/product/obs.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905
       description: 为客户提供海量、安全、高可靠、低成本的数据存储能力，使用时无需考虑容量限制，并且提供多种存储类型供选择，满足客户各类业务场景诉求。
 
@@ -81,11 +85,11 @@
   icon: far fa-share-square
   links:
     - title: 阿里云
-      logo: 阿里云.jpg
+      logo: aliyun-vps.jpg
       url: https://www.aliyun.com/product/cas?userCode=rhbbq4qp
       description: 一站式购齐SSL证书价优且多样、全网SSL证书统一运维省力又省心，全流程无忧保障提供有温度的服务。
     - title: 华为云
-      logo: 华为云.png
+      logo: huawei-vps.png
       url: https://activity.huaweicloud.com/Hisec.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905
       description: SSL证书特价6.7折
 
@@ -93,7 +97,7 @@
   icon: far fa-envelope
   links:
     - title: 阿里云
-      logo: 阿里云.jpg
+      logo: aliyun-vps.jpg
       url: https://www.aliyun.com/product/sms?userCode=rhbbq4qp
       description: 无需自行搭建消息服务，免运维。安全稳定，国内验证短信秒级触达，到达率99%；
 
@@ -101,10 +105,10 @@
   icon: far fa-paper-plane
   links:
     - title: 阿里云
-      logo: 阿里云.jpg
+      logo: aliyun-vps.jpg
       url: https://www.aliyun.com/product/cdn?userCode=rhbbq4qp
       description: 将源站内容分发至最接近用户的节点 提高用户访问的响应速度和成功率。
     - title: 华为云
-      logo: 华为云.png
+      logo: huawei-vps.png
       url: https://www.huaweicloud.com/product/cdn.html?fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9&utm_source=aGlkX2hxa29kN285ODR3LTdlag===&utm_medium=cps&utm_campaign=201905&fromacct=8e4b65ec-0fae-425c-839e-672c79df93f9
       description: 提高用户访问的响应速度和成功率。
